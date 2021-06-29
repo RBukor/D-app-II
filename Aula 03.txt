@@ -1,0 +1,72 @@
+1 - 	
+void main() {
+  
+  String nome = "Ricardo";
+  String sobrenome = "Bukor";
+  int idade = 26;
+  String endereco = "Rua Paranauê";
+  
+  print(nome);
+  print(sobrenome);
+  print(idade);
+  print(endereco);
+}
+  
+
+2 - 
+void main() {
+  
+  double valor = 34.90;
+  double valor1 = valor * 4;
+  
+  print(valor1);
+}
+
+3 - 
+
+void main() {
+  
+  double base_maior = 10;
+  double base_menor = 5;
+  double altura = 7.5;
+  
+  double area = ((base_maior + base_menor) * altura) /2;
+  
+  print(area);
+  
+}
+
+4 - 
+
+void main() {
+  
+  double lado = 10;
+  
+  double area = lado * lado;
+  
+  print(area);
+}
+
+
+5 - 
+
+
+void main() {
+  
+  String nome = "Gilbertão";
+  
+  if(nome == "Bartolomeu"){
+    
+    print("É a mesma pessoa");
+  }else{
+    print("Os nomes não conferem");
+  }
+  
+
+}
+  
+
+
+
+  
+
