@@ -156,10 +156,3 @@ dynamic numIdade(int a){
 
 }
 
-
-9 - 
-
-
-
-  
-
